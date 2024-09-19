@@ -1,0 +1,8 @@
+///// Excluir .env definitivamente
+
+-- incluir .env no arquivo .gitignore
+
+// limpar cache .env
+git rm -r --cached .env
+
+-- Fazer push
