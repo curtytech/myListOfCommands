@@ -1,0 +1,8 @@
+// Expo 
+npm install expo@50.0.0
+
+// Atualizar dependencias
+npx expo install --fix
+
+// Expo doctor corrigir possiveis erros
+npx expo-doctor
